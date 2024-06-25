@@ -1,0 +1,2 @@
+# SQL
+Solving LEETCODE SQL - 50 sheet  #180 days PLACEMENT CHALLENGE
